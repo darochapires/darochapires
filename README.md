@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pedro da Rocha Pires
 - 👀 I’m interested in Coffee Brewing and development
-- 🌱 I’m currently learning Jetpack Compose
+- 🌱 I’m currently specializing in Jetpack Compose
 - 💞️ I’m looking to collaborate on mobile apps for great products
 <!--- 📫 How to reach me ...--->
 
